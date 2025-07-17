@@ -1,12 +1,10 @@
-{% extends 'nucleo/base.html' %}
-
-{% block titulo %}Iniciar sesión{% endblock %}
-
+{% extends 'Core/base.html' %}
+{% block titulo %}Login{% endblock %}
 {% block contenido %}
-  <h1>Iniciar sesión</h1>
-  <form method="post">
+  <h2 class="mb-4">Iniciar sesión</h2>
+  <form method="post" class="card p-4 shadow-sm">
     {% csrf_token %}
     {{ form.as_p }}
-    <button type="submit">Entrar</button>
+    <button type="submit" class="btn btn-primary mt-2">Entrar</button>
   </form>
 {% endblock %}
