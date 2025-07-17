@@ -1,1 +1,19 @@
-{% load static %}
+{% extends 'Core/base.html' %}
+{% block titulo %}Acerca de mí{% endblock %}
+{% block contenido %}
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="card shadow-sm p-4">
+        <h2 class="mb-3 text-center">Sobre mí</h2>
+        <p class="fs-5">
+          Hola, soy <strong>Santiago Nervi</strong>. Soy estudiante de la carrera
+          <em>Analista Programador Universitario</em> en la Facultad de Informática de la <strong>UNLP</strong>.
+        </p>
+        <p class="fs-5">
+          Estoy realizando este curso para aprender más sobre <strong>lenguajes de programación orientada a objetos</strong>,
+          ya que en la universidad no se abordan hasta el segundo año de la carrera.
+        </p>
+      </div>
+    </div>
+  </div>
+{% endblock %}
