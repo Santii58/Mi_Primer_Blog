@@ -15,4 +15,4 @@ Aclaracion:No hace falta estar logeado para leer paginas, pero si es necesario l
            ademas el usuario solo puede modificar las paginas creadas por el 
 
 ARCHIVO DE VIDEO EXPLICATIVO
-https://drive.google.com/file/d/0B9DbedswuKK0c3RhcnRlcl9maWxl/view?usp=sharing&resourcekey=0--nshr5q7Nn3CnoKM3beAqQ
+[https://drive.google.com/file/d/0B9DbedswuKK0c3RhcnRlcl9maWxl/view?usp=sharing&resourcekey=0--nshr5q7Nn3CnoKM3beAqQ](https://drive.google.com/file/d/15poYCT93gMEaHHoojXXTD3pBmSJRKGS6/view?usp=sharing)
